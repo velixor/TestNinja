@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\velix\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\velix\\.nuget\\packages"
+    ]
+  }
+}
