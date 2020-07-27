@@ -4638,19 +4638,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\velix\\.nuget\\packages\\": {}
+    "C:\\Users\\p.dushkov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\velix\\repos\\Udemy\\Unit testing\\TestNinjaStarter\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\p.dushkov\\repos\\udemy\\Unit testing\\TestNinjaStarter\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
       "projectName": "TestNinja.UnitTests",
-      "projectPath": "C:\\Users\\velix\\repos\\Udemy\\Unit testing\\TestNinjaStarter\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\velix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\velix\\repos\\Udemy\\Unit testing\\TestNinjaStarter\\TestNinja.UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\p.dushkov\\repos\\udemy\\Unit testing\\TestNinjaStarter\\TestNinja.UnitTests\\TestNinja.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\p.dushkov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\p.dushkov\\repos\\udemy\\Unit testing\\TestNinjaStarter\\TestNinja.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\velix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\p.dushkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4658,14 +4658,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.8.109/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\velix\\repos\\Udemy\\Unit testing\\TestNinjaStarter\\TestNinja\\TestNinja.csproj": {
-              "projectPath": "C:\\Users\\velix\\repos\\Udemy\\Unit testing\\TestNinjaStarter\\TestNinja\\TestNinja.csproj"
+            "C:\\Users\\p.dushkov\\repos\\udemy\\Unit testing\\TestNinjaStarter\\TestNinja\\TestNinja.csproj": {
+              "projectPath": "C:\\Users\\p.dushkov\\repos\\udemy\\Unit testing\\TestNinjaStarter\\TestNinja\\TestNinja.csproj"
             }
           }
         }
@@ -4707,7 +4706,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

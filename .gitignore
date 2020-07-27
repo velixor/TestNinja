@@ -7,5 +7,5 @@
 *.iml
 out
 gen
-obj
-bin
+*\obj
+*\bin

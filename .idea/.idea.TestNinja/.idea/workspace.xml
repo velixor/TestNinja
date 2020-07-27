@@ -3,8 +3,44 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="" />
+    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +50,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///DemeritPointsCalculator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///ErrorLoggerTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///DemeritPointsCalculator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///ErrorLoggerTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,14 +67,14 @@
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DateHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/1932EAE7-7371-4487-A9F4-0AD73E5A2868/6b/5eb3eaed/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -41,11 +85,7 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Tests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
@@ -76,8 +116,17 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculateTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -95,13 +144,15 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -140,7 +191,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b613b956-d289-41f7-8ac7-d21d5a32b67e" name="Default" comment="" />
+      <changelist id="" name="Default" comment="" />
       <created>1507227824194</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -151,7 +202,19 @@
       <workItem from="1588611732449" duration="2960000" />
       <workItem from="1591615963848" duration="192000" />
       <workItem from="1591616227532" duration="72000" />
-      <workItem from="1591616672220" duration="1439000" />
+      <workItem from="1591616672220" duration="1584000" />
+      <workItem from="1591618772210" duration="1465000" />
+      <workItem from="1591701189840" duration="189000" />
+      <workItem from="1591701539922" duration="733000" />
+      <workItem from="1591703166146" duration="167000" />
+      <workItem from="1591740597332" duration="74000" />
+      <workItem from="1591740701113" duration="352000" />
+      <workItem from="1591746052134" duration="872000" />
+      <workItem from="1591806312659" duration="678000" />
+      <workItem from="1592237074274" duration="743000" />
+      <workItem from="1592251841669" duration="636000" />
+      <workItem from="1592557279726" duration="911000" />
+      <workItem from="1593590135382" duration="7069000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -167,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507240250446</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add gitignore">
+      <created>1593611970821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593611970822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,20 +253,68 @@
       <select />
     </coverage-tree-state>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="80" key="SettingsEditor" timestamp="1591616269907">
+    <state x="492" y="60" key="#Default" timestamp="1591746172593">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state x="309" y="80" key="SettingsEditor/0.0.1603.873@0.0.1603.873" timestamp="1591616269907" />
-    <state x="464" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1591617198312">
+    <state x="492" y="60" key="#Default/0.0.1603.873@0.0.1603.873" timestamp="1591746172593" />
+    <state x="550" y="280" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1593611446334">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state x="464" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1603.873@0.0.1603.873" timestamp="1591617198312" />
+    <state x="550" y="280" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1603.873@0.0.1603.873" timestamp="1593611446334" />
+    <state x="581" y="190" key="FileChooserDialogImpl" timestamp="1591806379887">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="581" y="190" key="FileChooserDialogImpl/0.0.1603.873@0.0.1603.873" timestamp="1591806379887" />
+    <state x="393" y="167" key="Rider.ProjectTemplateDialog.Size" timestamp="1592251878569">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="393" y="167" key="Rider.ProjectTemplateDialog.Size/0.0.1603.873@0.0.1603.873" timestamp="1592251878569" />
+    <state x="569" y="138" key="RollbackChangesDialog" timestamp="1591699936122">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="569" y="138" key="RollbackChangesDialog/0.0.1603.873@0.0.1603.873" timestamp="1591699936122" />
+    <state x="309" y="80" key="SettingsEditor" timestamp="1593611763871">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="309" y="80" key="SettingsEditor/0.0.1603.873@0.0.1603.873" timestamp="1593611763871" />
+    <state x="691" y="350" key="VCS.EditChangelistDialog" timestamp="1593612106370">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="691" y="350" key="VCS.EditChangelistDialog/0.0.1603.873@0.0.1603.873" timestamp="1593612106370" />
+    <state x="92" y="92" width="1418" height="687" key="VCS.FileHistoryDialog" timestamp="1591703092773">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="92" y="92" width="1418" height="687" key="VCS.FileHistoryDialog/0.0.1603.873@0.0.1603.873" timestamp="1591703092773" />
+    <state x="585" y="279" key="cloudConfig.PluginsDialog" timestamp="1593611469742">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="585" y="279" key="cloudConfig.PluginsDialog/0.0.1603.873@0.0.1603.873" timestamp="1593611469742" />
+    <state x="485" y="168" width="631" height="534" key="find.popup" timestamp="1593603301083">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="485" y="168" width="631" height="534" key="find.popup/0.0.1603.873@0.0.1603.873" timestamp="1593603301083" />
+    <state x="464" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1593609798435">
+      <screen x="0" y="0" width="1603" height="873" />
+    </state>
+    <state x="464" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1603.873@0.0.1603.873" timestamp="1593609798435" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
