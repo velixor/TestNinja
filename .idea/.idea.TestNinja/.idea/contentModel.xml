@@ -32,6 +32,8 @@
         <e p="Mocking" t="Include">
           <e p="BookingHelper.cs" t="Include" />
           <e p="EmployeeController.cs" t="Include" />
+          <e p="FileReader.cs" t="Include" />
+          <e p="IFileReader.cs" t="Include" />
           <e p="InstallerHelper.cs" t="Include" />
           <e p="OrderService.cs" t="Include" />
           <e p="Product.cs" t="Include" />
@@ -60,9 +62,11 @@
             </e>
           </e>
         </e>
+        <e p="OrderServiceTests.cs" t="Include" />
         <e p="ReservationTests.cs" t="Include" />
         <e p="StackTests.cs" t="Include" />
         <e p="TestNinja.UnitTests.csproj" t="IncludeRecursive" />
+        <e p="VideoServiceTests.cs" t="Include" />
       </e>
     </e>
   </component>
