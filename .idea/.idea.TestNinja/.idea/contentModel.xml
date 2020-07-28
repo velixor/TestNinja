@@ -62,6 +62,7 @@
           </e>
         </e>
         <e p="ReservationTests.cs" t="Include" />
+        <e p="StackTests.cs" t="Include" />
         <e p="TestNinja.UnitTests.csproj" t="IncludeRecursive" />
       </e>
     </e>

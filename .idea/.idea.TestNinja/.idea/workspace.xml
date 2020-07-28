@@ -13,33 +13,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" afterDir="false" />
+    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="end of 43">
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/TestNinja.UnitTests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,34 +31,31 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///DemeritPointsCalculator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///ErrorLoggerTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///DemeritPointsCalculator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///ErrorLoggerTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DateHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DateHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/1932EAE7-7371-4487-A9F4-0AD73E5A2868/6b/5eb3eaed/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,7 +67,6 @@
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
@@ -127,6 +106,7 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
       </list>
     </option>
   </component>
@@ -143,6 +123,8 @@
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -191,7 +173,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="" name="Default" comment="" />
+      <changelist id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="" />
       <created>1507227824194</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -215,6 +197,7 @@
       <workItem from="1592251841669" duration="636000" />
       <workItem from="1592557279726" duration="911000" />
       <workItem from="1593590135382" duration="7069000" />
+      <workItem from="1595856726602" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -237,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593611970822</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="end of 43">
+      <created>1595856913094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595856913094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,12 +253,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="." />
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="end of 43" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of 43" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="60" key="#Default" timestamp="1591746172593">
@@ -283,6 +275,10 @@
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="581" y="190" key="FileChooserDialogImpl/0.0.1603.873@0.0.1603.873" timestamp="1591806379887" />
+    <state x="838" y="423" width="532" height="204" key="Github.ShareDialog" timestamp="1595857011721">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="838" y="423" width="532" height="204" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595857011721" />
     <state x="393" y="167" key="Rider.ProjectTemplateDialog.Size" timestamp="1592251878569">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
@@ -303,6 +299,10 @@
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="92" y="92" width="1418" height="687" key="VCS.FileHistoryDialog/0.0.1603.873@0.0.1603.873" timestamp="1591703092773" />
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1595856930568">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1595856930568" />
     <state x="585" y="279" key="cloudConfig.PluginsDialog" timestamp="1593611469742">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
@@ -311,10 +311,11 @@
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="485" y="168" width="631" height="534" key="find.popup/0.0.1603.873@0.0.1603.873" timestamp="1593603301083" />
-    <state x="464" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1593609798435">
-      <screen x="0" y="0" width="1603" height="873" />
+    <state x="556" y="219" width="805" height="816" key="search.everywhere.popup" timestamp="1595856852991">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="464" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1603.873@0.0.1603.873" timestamp="1593609798435" />
+    <state x="556" y="219" width="805" height="816" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1595856852991" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
