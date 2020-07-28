@@ -13,7 +13,6 @@
     <e p="C:\Users\p.dushkov\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
     <e p="C:\Users\p.dushkov\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_TestNinja.-2036586503.00" t="ExcludeRecursive" />
     <e p="C:\Users\p.dushkov\repos\Udemy\Unit testing\TestNinjaStarter" t="IncludeFlat">
-      <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="TestNinja" t="IncludeRecursive">
         <e p="App.config" t="Include" />

@@ -13,14 +13,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="end of 43">
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" afterDir="false" />
+    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="add tests for Stack">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
     </list>
@@ -66,7 +65,6 @@
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
@@ -106,6 +104,7 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
       </list>
     </option>
@@ -197,7 +196,8 @@
       <workItem from="1592251841669" duration="636000" />
       <workItem from="1592557279726" duration="911000" />
       <workItem from="1593590135382" duration="7069000" />
-      <workItem from="1595856726602" duration="1450000" />
+      <workItem from="1595856726602" duration="1762000" />
+      <workItem from="1595925110262" duration="1121000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595856913094</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add tests for Stack">
+      <created>1595924130678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595924130678</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +267,8 @@
     <MESSAGE value="." />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="end of 43" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of 43" />
+    <MESSAGE value="add tests for Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tests for Stack" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="60" key="#Default" timestamp="1591746172593">
@@ -299,10 +307,10 @@
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="92" y="92" width="1418" height="687" key="VCS.FileHistoryDialog/0.0.1603.873@0.0.1603.873" timestamp="1591703092773" />
-    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1595856930568">
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2" timestamp="1595924132318">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1595856930568" />
+    <state x="1032" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1595924132318" />
     <state x="585" y="279" key="cloudConfig.PluginsDialog" timestamp="1593611469742">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
