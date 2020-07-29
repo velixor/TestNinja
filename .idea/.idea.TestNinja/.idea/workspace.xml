@@ -13,14 +13,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="end of section 5">
-      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/InstallerHelperTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/FileDownLoader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/IVideoRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" afterDir="false" />
+    <list default="true" id="0057d7da-34ca-4816-be25-c6e679a3e711" name="Default Changelist" comment="end of 65">
+      <change afterPath="$PROJECT_DIR$/TestNinja.UnitTests/EmployeeControllerTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNinja/Mocking/IEmployeeStorage.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestNinja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/VideoServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/VideoServiceTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/bin/Debug/netcoreapp3.1/TestNinja.dll" afterDir="false" />
@@ -30,14 +28,11 @@
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.UnitTests/obj/Debug/netcoreapp3.1/TestNinja.UnitTests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/TestNinja.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/TestNinja.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/bin/Debug/TestNinja.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestNinja/obj/Debug/TestNinja.pdb" afterDir="false" />
     </list>
@@ -69,23 +64,27 @@
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/EmployeeControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/IEmployeeStorage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/IVideoRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileDownLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/IFileReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/645666A8-CEA4-4BF5-905E-0EF193655174/71/c8bb7794/WebClient.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/VideoServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/InstallerHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TestNinja/Class1.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Tests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" />
@@ -97,9 +96,7 @@
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" />
@@ -136,6 +133,9 @@
         <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownLoader.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/InstallerHelperTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/EmployeeControllerTests.cs" />
       </list>
     </option>
   </component>
@@ -150,6 +150,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -229,7 +231,7 @@
       <workItem from="1595856726602" duration="1762000" />
       <workItem from="1595925110262" duration="1121000" />
       <workItem from="1595931880986" duration="2109000" />
-      <workItem from="1596023862309" duration="5620000" />
+      <workItem from="1596023862309" duration="7844000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -273,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595933987712</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="end of 65">
+      <created>1596032383944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596032383944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,13 +317,18 @@
     <MESSAGE value="end of 43" />
     <MESSAGE value="add tests for Stack" />
     <MESSAGE value="end of section 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="end of section 5" />
+    <MESSAGE value="end of 65" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of 65" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="60" key="#Default" timestamp="1591746172593">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="492" y="60" key="#Default/0.0.1603.873@0.0.1603.873" timestamp="1591746172593" />
+    <state x="715" y="229" key="#xdebugger.evaluate" timestamp="1596034558160">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="715" y="229" key="#xdebugger.evaluate/0.0.1920.1050@0.0.1920.1050" timestamp="1596034558160" />
     <state x="550" y="280" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1593611446334">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
@@ -328,10 +342,94 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="838" y="423" width="532" height="204" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595857011721" />
+    <state width="1877" height="379" key="GridCell.Tab.0.bottom" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.0.center" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.0.left" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.0.right" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.1.bottom" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.1.center" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.1.left" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.1.right" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.2.bottom" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.2.center" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.2.left" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.2.right" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.3.bottom" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.3.center" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.3.left" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.3.right" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.4.bottom" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.4.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.4.center" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.4.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.4.left" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.4.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
+    <state width="1877" height="379" key="GridCell.Tab.4.right" timestamp="1596034564428">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.4.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596034564428" />
     <state x="393" y="167" key="Rider.ProjectTemplateDialog.Size" timestamp="1592251878569">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
     <state x="393" y="167" key="Rider.ProjectTemplateDialog.Size/0.0.1603.873@0.0.1603.873" timestamp="1592251878569" />
+    <state x="1312" y="224" key="RiderGenerateDialog" timestamp="1596033548167">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1312" y="224" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596033548167" />
     <state x="569" y="138" key="RollbackChangesDialog" timestamp="1591699936122">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
@@ -364,11 +462,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1596026940817" />
-    <state x="556" y="219" width="805" height="816" key="search.everywhere.popup" timestamp="1595856852991">
+    <state x="556" y="219" width="805" height="816" key="search.everywhere.popup" timestamp="1596032411091">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="464" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1603.873@0.0.1603.873" timestamp="1593609798435" />
-    <state x="556" y="219" width="805" height="816" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1595856852991" />
+    <state x="556" y="219" width="805" height="816" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1596032411091" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,6 +500,32 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TestNinja.UnitTests/EmployeeControllerTests.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/TestNinja.UnitTests/EmployeeControllerTests.cs" initialLine="23">
+            <startOffsets>
+              <option value="623" />
+            </startOffsets>
+            <endOffsets>
+              <option value="624" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" initialLine="15">
+            <startOffsets>
+              <option value="398" />
+            </startOffsets>
+            <endOffsets>
+              <option value="399" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

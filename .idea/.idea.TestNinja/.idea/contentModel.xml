@@ -32,8 +32,10 @@
         <e p="Mocking" t="Include">
           <e p="BookingHelper.cs" t="Include" />
           <e p="EmployeeController.cs" t="Include" />
+          <e p="EmployeeStorage.cs" t="Include" />
           <e p="FileDownLoader.cs" t="Include" />
           <e p="FileReader.cs" t="Include" />
+          <e p="IEmployeeStorage.cs" t="Include" />
           <e p="IFileReader.cs" t="Include" />
           <e p="InstallerHelper.cs" t="Include" />
           <e p="IVideoRepository.cs" t="Include" />
@@ -54,6 +56,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="CustomerControllerTests.cs" t="Include" />
         <e p="DemeritPointsCalculatorTests.cs" t="Include" />
+        <e p="EmployeeControllerTests.cs" t="Include" />
         <e p="ErrorLoggerTests.cs" t="Include" />
         <e p="FizzBuzzTests.cs" t="Include" />
         <e p="HtmlFormatterTests.cs" t="Include" />
